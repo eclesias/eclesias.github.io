@@ -1,0 +1,23 @@
+# Site settings
+title: Devops Consulting
+email: info@eclesias.com
+description: > # Devops consulting. AWS, CI, CD
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://www.eclesias.com" # the base hostname & protocol for your site
+
+# User setting
+owner: Eclesias Consulting
+email: info@eclesias.com
+github_username:
+address:
+  - line:
+  - line:
+  # Feel free to add more lines here
+telephone:
+copyright: Eclesias Consulting
+
+# API settings
+google_api_key:
+
+# Build settings
+markdown: kramdown
